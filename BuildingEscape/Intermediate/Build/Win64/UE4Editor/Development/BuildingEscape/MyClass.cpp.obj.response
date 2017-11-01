@@ -24,8 +24,9 @@
 /wd4838
 /w44668
 /I "E:\Programs\UnReal Stuff\UE_4.17\Engine\Source"
-/I "E:\Repos\Unreal Games\Section-03_BuildingEscape\BuildingEscape\Source"
-/I "E:\Repos\Unreal Games\Section-03_BuildingEscape\BuildingEscape\Source\BuildingEscape"
+/I "E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Source"
+/I "E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape"
+/I "E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Source\BuildingEscape"
 /I "E:\Programs\UnReal Stuff\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "E:\Programs\UnReal Stuff\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "E:\Programs\UnReal Stuff\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -355,9 +356,9 @@
 /FI"E:\Programs\UnReal Stuff\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"E:\Programs\UnReal Stuff\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"E:\Programs\UnReal Stuff\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Repos\Unreal Games\Section-03_BuildingEscape\BuildingEscape\Source\BuildingEscape\MyClass.cpp"
-/FI"E:\Repos\Unreal Games\Section-03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h"
-/Fo"E:\Repos\Unreal Games\Section-03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\MyClass.cpp.obj"
+"E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Source\BuildingEscape\MyClass.cpp"
+/FI"E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h"
+/Fo"E:\Repos\Unreal Games\Section-03_Building_Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\MyClass.cpp.obj"
 /TP
 /GR-
 /W4
